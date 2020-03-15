@@ -1,1 +1,17 @@
-"AND Cnn.com OR Nytimes.com OR News.google.com OR Theguardian.com OR Washingtonpost.com OR News.yahoo.com OR Cnbc.com OR Bloomberg.com OR Reuters.com OR Usatoday.com OR Nbcnews.com OR Usnews.com OR Time.com OR Abcnews.go.com OR Thehill.com"
+[
+"Cnn.com ",
+  " Nytimes.com ",
+  " News.google.com ",
+  " Theguardian.com ",
+  " Washingtonpost.com ",
+  " News.yahoo.com ",
+  " Cnbc.com ",
+  " Bloomberg.com ",
+  " Reuters.com ",
+  " Usatoday.com ",
+  " Nbcnews.com ",
+  " Usnews.com ",
+  " Time.com ",
+  " Abcnews.go.com ",
+  " Thehill.com"
+]
